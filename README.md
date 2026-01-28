@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/79/3e/fd/793efdb022838443280c69de39ca3d91.gif"  />
+  <img height="150" src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"  />
 </div>
 
 ###
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec São Sebastião**  <br>💡 Focado no ecossistema **JavaScript**  <br>🚀 Criando interfaces **modernas, acessíveis e funcionais**</p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec São Sebastião <br>🚀 Criando interfaces modernas, acessíveis e funcionais</p>
 
 ###
 
